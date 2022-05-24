@@ -1,0 +1,32 @@
+{
+  "driverList": [
+    {
+      "driver_image": "http://something.jpg",
+      "driver_name": "Suneel"
+    },
+    {
+      "driver_image": "http://something.jpg",
+      "driver_name": "Suneel"
+    },
+    {
+      "driver_image": "http://something.jpg",
+      "driver_name": "Suneel"
+    }
+  ]
+}
+
+{
+  "articleList": [
+    {
+      "title": "http://something.jpg",
+      "list": ["Hi" , "Hello" , "123"]
+    },
+    {
+      "title": "http://something.jpg",
+      "list": ["Hi" , "Hello" , "123"]
+    },{
+      "title": "http://something.jpg",
+      "list": ["Hi" , "Hello" , "123"]
+    }
+  ]
+}
